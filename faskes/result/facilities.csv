@@ -1,4 +1,4 @@
-province,city,type,kode_faskes,facility,gmap_url,address,telephone,lng,lat
+province,city,type,kode_faskes,facility,gmap_url,address,telephone,lat,lng
 Nanggroe Aceh Darussalam,Kota Langsa,Rumah Sakit,0001R001,RSU Cut Nyak Dhien,"http://maps.google.co.id/?q=4.488058,97.947963",Jl. Tm Bahrum No. 1 Langsa,0641-0621039,4.488058,97.947963
 Nanggroe Aceh Darussalam,Kota Langsa,Rumah Sakit,0001R004,RSU Cut Meutia Langsa,"http://maps.google.co.id/?q=4.488088,97.947781",Jl.Garuda Kebun Baru Langsa,0641- 4840076,4.488088,97.947781
 Nanggroe Aceh Darussalam,Kota Langsa,Rumah Sakit,0105R001,RSUD Langsa,"http://maps.google.co.id/?q=4.472208,97.975533",Jln.A.Yani No. 1 Langsa,0641-22051,4.472208,97.975533
